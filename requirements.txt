@@ -1,0 +1,4 @@
+Project platform: Jupiter Notebook (Anaconda)
+Language : Python
+Algorithms: Machine learning
+datasets: twitter
